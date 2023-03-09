@@ -1,0 +1,31 @@
+10
+1
+Which of the following is an example of web browser?
+1.0
+2
+Which of the following HTML tag is used to link the URL?
+1.0
+3
+Link URL in HTML is specified using _____ attribute
+1.0
+4
+HTML is considered as
+1.0
+5
+_____ attribute is used to specify where to open the linked document
+1.0
+6
+Which of the anchor attribute is used to specify the language of the linked document?
+1.0
+7
+Which of the following is used to open the document in new window?
+1.0
+8
+What is the HTML element to display an image?
+1.0
+9
+tuan
+1.0
+10
+what is the HTML element to display an image	?
+1.0
